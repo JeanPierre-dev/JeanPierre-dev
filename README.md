@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JeanPierre-dev
 - 👀 I’m interested in Learning code (Java❤)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me luis.olaya.dev@outlook.com
-
